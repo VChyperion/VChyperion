@@ -1,7 +1,9 @@
-### Hey! I'm a second year Computer Science student looking to increase my skills and knowledge! I'm currently working on an encrypted note and calendar app as the current tools available in the market (Google, Outlook) are kind of insecure and hard to read :-(
+### Hey! I'm a second year Computer Science student looking to increase my skills and knowledge! A.I. and Software Dev are some of my big interests so I hope to express that here.
+
+I'm currently working on an encrypted note and calendar app as the current tools available in the market (Google, Outlook) are kind of insecure and hard to read :-(
 
 I have a couple years of experience with Python but I am always looking to expand my expertise. Java is the current language that I am focusing my time on though!
-A.I. and Software Dev are some of my big interests so I hope to express that here.
+
 
 <!--
 **VChyperion/VChyperion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
