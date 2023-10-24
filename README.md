@@ -1,9 +1,11 @@
 ### Hey! I'm a second year Computer Science student looking to increase my skills and knowledge! A.I. and Software Dev are some of my big interests so I hope to express that here.
 
-I'm currently working on an encrypted note and calendar app as the current tools available in the market (Google, Outlook) are hard to read and have weird navigation (imo)  :-(
-(A friend recently got a cookie stealing attack on his email services. Yikes)
+I have almost 9 years worth of projects and mini-tasks I need to upload to GitHub so hopefully I'll find the time to commit them all  C-:
 
-I have a couple years of experience with Python but I am always looking to expand my expertise. Java is the current language that I am focusing my time on though!
+Currently working on an encrypted note and calendar app as the current tools available in the market (Google, Outlook) are hard to read and have weird navigation and are kind of unsecure  :-(
+(A friend recently got a cookie stealing attack on his email services, Yikes)
+
+I'm more focused on Python and SQL, with a couple years of experience in both but I am always looking to expand my expertise. Java and UNIX are the current languages that I am focusing my time on now!
 
 
 <!--
